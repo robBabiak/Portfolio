@@ -1,3 +1,7 @@
+## -----------------------------------------------------------------------------------
+## -- ServiceManager.py
+## -- Copyright Robert Babiak, 2016
+## -----------------------------------------------------------------------------------
 import __builtin__
 from Util import KeyVal
 from collections import defaultdict
@@ -5,7 +9,7 @@ import time
 import pkgutil
 import stackless
 import threading
-from Serivce import Service, SERVICE_STATES
+from Serivce import SERVICE_STATES
 __Services_Version__ = "1.0.0"
 
 

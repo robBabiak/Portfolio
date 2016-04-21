@@ -1,3 +1,7 @@
+## -----------------------------------------------------------------------------------
+## -- Service.py
+## -- Copyright Robert Babiak, 2016
+## -----------------------------------------------------------------------------------
 from Util import KeyVal, AddConst
 
 SERVICE_STATES = KeyVal(NONE=0, RUNNING=1, STOPPED=2)
