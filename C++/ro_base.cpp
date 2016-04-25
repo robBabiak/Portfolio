@@ -1,3 +1,7 @@
+/* -----------------------------------------------------------------------------------
+   -- ro_base.cpp
+   -- Copyright Robert Babiak, 2016
+   ----------------------------------------------------------------------------------- */
 #include <boost/python.hpp>
 #include <boost/python/suite/indexing/vector_indexing_suite.hpp>
 #include <boost/python/suite/indexing/map_indexing_suite.hpp>
